@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api.vagalume.com.br/docs/
 common:
+  - type: DomainSecurity
+    url: security/vagalume-domain-security.yml
   - type: Website
     url: https://api.vagalume.com.br/docs/
   - type: PublicAPIsListing
