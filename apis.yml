@@ -39,7 +39,6 @@ apis:
   - name: Vagalume
     description: "Crowdsourced lyrics and music knowledge"
     humanURL: https://api.vagalume.com.br/docs/
-    baseURL: https://api.vagalume.com.br/docs/
     tags:
       - Music
     properties:
